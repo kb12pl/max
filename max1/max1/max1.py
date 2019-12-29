@@ -2,12 +2,17 @@ from turtle import *
 
 
 
-def wielo(n):
-    for i in range(n):
-        fd(100)
-        rt(360/n)
-    
-wielo(5)
+from turtle import *
+
+
+fd(100)
+lt (90)
+fd (100)
+lt (90)
+fd (100)
+lt (90)
+fd (100)
+done()
 
 
 done()
