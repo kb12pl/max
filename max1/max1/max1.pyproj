@@ -24,7 +24,6 @@
     <Compile Include="max1.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="4_podstawy.pdf" />
     <Content Include="instrukcja.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
